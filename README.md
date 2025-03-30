@@ -1,5 +1,5 @@
 ## Hi there 👋
-![bannerPresentacion](../static/BANNER.png)
+![bannerPresentacion](./static/BANNER.png)
 <!--
 **PeteerDHeras/PeteerDHeras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
