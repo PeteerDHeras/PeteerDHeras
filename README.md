@@ -21,7 +21,6 @@ ir a las prácticas para poder entrar a este mundo del cual me emociona.
 ### Desarrollo Back End
 * ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
 * ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-* ![Flask](https://img.icons8.com/?size=48&id=qULYrKvr-AFH&format=png&color=000000) Frameworks Python (Flask, Fastapi, Django,...)
 * ![Server](https://img.icons8.com/color/48/000000/network.png) Servidores DNS, Apache2, Tomcat, etc..
 
 <!--
