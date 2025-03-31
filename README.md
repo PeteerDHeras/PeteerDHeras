@@ -1,4 +1,4 @@
-## Presentación de Pedro de las Heras 👋
+## Carta presentación👋
 ![bannerPresentacion](./static/BANNER.png)
 
 ### Biografía
