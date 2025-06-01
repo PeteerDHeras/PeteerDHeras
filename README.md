@@ -8,13 +8,7 @@
 
 ### Biografía
 
-Mi nombre es **Pedro de las Heras**, soy una persona responsable, comprometida y ambiciosa. He trabajado mucho tiempo en empleos donde no se valoraban muchos puntos de las personas, así que empecé a invertir en mí mismo y en mis conocimientos para lograr algo que siempre me ha atraído: trabajar en desarrollo, informática y programación.
-
-Hace unos años, cansado de trabajar en diversos tipos de profesiones, me replanteé mi vida laboral. ¿Esto es lo que quiero? ¿No hay nada mejor? ¿A qué me gustaría dedicarme?  
-Muchas veces, nos hacen decidir sobre nuestro futuro muy temprano, cuando ni siquiera sabemos qué es el mundo laboral, y te vas dejando llevar. Entonces te das cuenta de que estás en una situación que no te gusta y quieres cambiarla.  
-Por eso empecé mi aventura en el desarrollo de software.
-
-Decidí estudiar programación, sin tener claro por dónde empezar, perdido entre la multitud de opciones que había por internet. Recordé las formaciones profesionales de informática y finalmente conseguí entrar en un FP Superior, y ahora estoy en la recta final, a punto de comenzar las prácticas para poder entrar en este mundo que tanto me motiva.
+Mi nombre es **Pedro de las Heras**, soy una persona responsable, comprometida y ambiciosa. He trabajado mucho tiempo en empleos donde no se valoraban muchos puntos de las personas, así que empecé a invertir en mí mismo y en mis conocimientos para lograr algo que siempre me ha atraído: trabajar en desarrollo, informática y proyectos.
 
 ---
 
