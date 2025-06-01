@@ -1,27 +1,75 @@
-## Carta de Presentación 👋
+# Pedro De las Heras
+
 ![bannerPresentacion](./static/BANNER.png)
 
+---
+
+## 👋 Carta de Presentación
+
 ### Biografía
-Mi nombre es **Pedro de las Heras**, soy estudiante de un curso de Formación Profesional en el centro **CIFP Pau Casesnoves** en Inca, Mallorca.
 
-Hace unos años, cansado de trabajar en diversos tipos de profesiones, me replanteé mi vida laboral. ¿Esto es lo que quiero? ¿No hay nada mejor? ¿A qué me gustaría dedicarme?
-Nos hacen decidir sobre nuestro futuro muy temprano cuando ni siquiera sabemos qué es el mundo laboral, y te vas dejando llevar. Entonces te das cuenta de que estás en una situación que no te gusta y quieres cambiarla.
-Aquí empieza mi aventura en el desarrollo de software.
+Mi nombre es **Pedro de las Heras**, soy una persona responsable, comprometida y ambiciosa. He trabajado mucho tiempo en empleos donde no se valoraban muchos puntos de las personas, así que empecé a invertir en mí mismo y en mis conocimientos para lograr algo que siempre me ha atraído: trabajar en desarrollo, informática y programación.
 
-Me decidí a estudiar programación, sin saber muy bien cómo, estaba perdido entre la multitud de opciones que había por internet. Recordé que había formaciones profesionales de informática y que habría posibilidades de que impartan estas lecciones.
-Efectivamente, tras años de intentar entrar a un FP Superior, conseguí hace 3 años poder realizar un módulo del curso para poder obtener plaza preferente para los dos siguientes años, hasta día de hoy que estoy en la recta final del curso y poder 
-ir a las prácticas para poder entrar a este mundo del cual me emociona.
+Hace unos años, cansado de trabajar en diversos tipos de profesiones, me replanteé mi vida laboral. ¿Esto es lo que quiero? ¿No hay nada mejor? ¿A qué me gustaría dedicarme?  
+Muchas veces, nos hacen decidir sobre nuestro futuro muy temprano, cuando ni siquiera sabemos qué es el mundo laboral, y te vas dejando llevar. Entonces te das cuenta de que estás en una situación que no te gusta y quieres cambiarla.  
+Por eso empecé mi aventura en el desarrollo de software.
 
-### Desarrollo Front End
-* ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
-* ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS
-* ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Frameworks CSS (Bootstrap, Tailwind CSS, etc..)
-* ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) Javascript
+Decidí estudiar programación, sin tener claro por dónde empezar, perdido entre la multitud de opciones que había por internet. Recordé las formaciones profesionales de informática y finalmente conseguí entrar en un FP Superior, y ahora estoy en la recta final, a punto de comenzar las prácticas para poder entrar en este mundo que tanto me motiva.
 
-### Desarrollo Back End
-* ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-* ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-* ![Server](https://img.icons8.com/color/48/000000/network.png) Servidores DNS, Apache2, Tomcat, etc..
+---
+
+## 💼 Experiencia Profesional
+
+**🚚 Chofer - Repartidor**  
+*9 años de experiencia en:*
+- Mercaluz
+- TFR
+- Bodegas Tunel
+- Bosch & Lozano
+
+---
+
+## 🎓 Formación Académica
+
+- 🏫 **E.S.O.** — San Pedro (2010 - 2014)
+- 🗂️ **FP Medio en Gestión Administrativa** (2015 - 2017)
+- 💻 **FP Superior en Desarrollo de Aplicaciones Web** (2023 - Actualmente)  
+  *Actualmente finalizando, pendiente de prácticas*
+
+---
+
+## 🛠️ Competencias y Habilidades
+
+- 🗂️ Organización
+- 🧩 Resolución de problemas
+- 🤝 Atención al cliente
+- 🕓 Gestión del trabajo
+
+---
+
+## 🚀 Tecnologías y Lenguajes
+
+### Front End
+* <img src="https://img.icons8.com/color/48/000000/html-5.png" height="24"/> **HTML5**
+* <img src="https://img.icons8.com/color/48/000000/css3.png" height="24"/> **CSS**  
+  <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="24"/> **Frameworks:** Bootstrap, Tailwind CSS
+* <img src="https://img.icons8.com/color/48/000000/javascript.png" height="24"/> **JavaScript**
+
+### Back End
+* <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="24"/> **Java**
+* <img src="https://img.icons8.com/color/48/000000/python.png" height="24"/> **Python** (Flask, FastAPI)
+* <img src="https://img.icons8.com/color/48/000000/network.png" height="24"/> **Servidores:** DNS, Apache2, Tomcat, etc.
+
+### Herramientas
+* <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="24"/> **GitHub**
+
+---
+
+## 🌐 Idiomas
+
+- 🇪🇸 Catalán
+- 🇪🇸 Castellano
+- 🇬🇧 Inglés (Nivel intermedio)
 
 <!--
 **PeteerDHeras/PeteerDHeras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
