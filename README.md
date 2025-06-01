@@ -44,18 +44,18 @@ Mi nombre es **Pedro de las Heras**, soy una persona responsable, comprometida y
 ## 🚀 Tecnologías y Lenguajes
 
 ### Front End
-<img src="https://img.icons8.com/color/48/000000/html-5.png" height="24"/> **HTML5**
-<img src="https://img.icons8.com/color/48/000000/css3.png" height="24"/> **CSS**  
-<img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="24"/> **Frameworks:** Bootstrap, Tailwind CSS
-<img src="https://img.icons8.com/color/48/000000/javascript.png" height="24"/> **JavaScript**
+* <img src="https://img.icons8.com/color/48/000000/html-5.png" height="24"/> **HTML5**
+* <img src="https://img.icons8.com/color/48/000000/css3.png" height="24"/> **CSS**  
+* <img src="https://img.icons8.com/color/48/000000/bootstrap.png" height="24"/> **Frameworks:** Bootstrap, Tailwind CSS
+* <img src="https://img.icons8.com/color/48/000000/javascript.png" height="24"/> **JavaScript**
 
 ### Back End
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="24"/> **Java**
-<img src="https://img.icons8.com/color/48/000000/python.png" height="24"/> **Python** (Flask, FastAPI)
-<img src="https://img.icons8.com/color/48/000000/network.png" height="24"/> **Servidores:** DNS, Apache2, Tomcat, etc.
+* <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" height="24"/> **Java**
+* <img src="https://img.icons8.com/color/48/000000/python.png" height="24"/> **Python** (Flask, FastAPI)
+* <img src="https://img.icons8.com/color/48/000000/network.png" height="24"/> **Servidores:** DNS, Apache2, Tomcat, etc.
 
 ### Herramientas
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="24"/> **GitHub**
+* <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="24"/> **GitHub**
 
 ---
 
@@ -65,6 +65,11 @@ Mi nombre es **Pedro de las Heras**, soy una persona responsable, comprometida y
 - 🇪🇸 Castellano
 - 🇬🇧 Inglés (Nivel intermedio)
 
+## 📫 Contacto
+
+- 📧 **Email:** peteerdheras@gmail.com  
+- 💼 **LinkedIn:** [linkedin.com/in/peteerdheras](https://linkedin.com/in/peteerdheras)  
+- 🐙 **GitHub:** [github.com/PeteerDHeras](https://github.com/PeteerDHeras)
 <!--
 **PeteerDHeras/PeteerDHeras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
