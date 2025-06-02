@@ -1,4 +1,4 @@
-# Pedro De las Heras
+# Pedro De las Heras Enseñat
 
 ![bannerPresentacion](./static/BANNER.png)
 
