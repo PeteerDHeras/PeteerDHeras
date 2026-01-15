@@ -1,9 +1,5 @@
 # Pedro De las Heras Enseñat
 
-![bannerPresentacion](./static/BANNER.png)
-
----
-
 ## 👋 Carta de Presentación
 
 ### Biografía
