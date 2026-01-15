@@ -4,7 +4,7 @@
 
 ### Biografía
 
-Mi nombre es **Pedro de las Heras**, soy una persona responsable, comprometida y ambiciosa. He trabajado mucho tiempo en empleos donde no se valoraban muchos puntos de las personas, así que empecé a invertir en mí mismo y en mis conocimientos para lograr algo que siempre me ha atraído: trabajar en desarrollo, informática y proyectos.
+Mi nombre es **Pedro de las Heras**, soy una persona responsable, comprometida y ambiciosa. He trabajado mucho tiempo en empleos donde no se valoraban muchos puntos de las personas, así que empecé a invertir en mí mismo y en mis conocimientos para lograr algo que siempre me ha atraído: trabajar en proyectos de desarrollo, informática y programación.
 
 ---
 
