@@ -14,8 +14,12 @@ Mi nombre es **Pedro de las Heras**, soy una persona responsable, comprometida y
 
 ## 💼 Experiencia Profesional
 
-**🚚 Chofer - Repartidor**  
-*9 años de experiencia en:*
+**💻 Desarrollador web**  
+*Actualmente trabajando en:*
+- TravelGate X (https://www.travelgate.com/)
+
+**🚚 Empleado Logística**  
+*8 años de experiencia en:*
 - Mercaluz
 - TFR
 - Bodegas Tunel
@@ -25,10 +29,8 @@ Mi nombre es **Pedro de las Heras**, soy una persona responsable, comprometida y
 
 ## 🎓 Formación Académica
 
-- 🏫 **E.S.O.** — San Pedro (2010 - 2014)
 - 🗂️ **FP Medio en Gestión Administrativa** (2015 - 2017)
-- 💻 **FP Superior en Desarrollo de Aplicaciones Web** (2023 - Actualmente)  
-  *Actualmente finalizando, pendiente de prácticas*
+- 💻 **FP Superior en Desarrollo de Aplicaciones Web** (2023 - 2025)  
 
 ---
 
@@ -67,7 +69,7 @@ Mi nombre es **Pedro de las Heras**, soy una persona responsable, comprometida y
 
 ## 📫 Contacto
 
-- 📧 **Email:** peteerdheras@gmail.com  
+- 📧 **Email:** pedro9atb@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/peteerdheras](https://linkedin.com/in/peteerdheras)  
 - 🐙 **GitHub:** [github.com/PeteerDHeras](https://github.com/PeteerDHeras)
 <!--
