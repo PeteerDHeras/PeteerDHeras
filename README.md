@@ -12,10 +12,10 @@ Mi nombre es **Pedro de las Heras**, soy una persona responsable, comprometida y
 
 **💻 Desarrollador web**  
 *Actualmente trabajando en:*
-- TravelGate X (https://www.travelgate.com/)
+- (2025) TravelGate X (https://www.travelgate.com/)
 
 **🚚 Empleado Logística**  
-*8 años de experiencia en:*
+*8 años de experiencia en: (2017 a 2025)*
 - Mercaluz
 - TFR
 - Bodegas Tunel
